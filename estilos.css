@@ -4,8 +4,8 @@ body{
 }
 header{
     height: 65px;
-    background-color: #7b1fa2;
-    color: white;
+    background-color:lightblue;
+    color:black;
     display: flex;
     align-items: center;
     padding-left: 25px;
